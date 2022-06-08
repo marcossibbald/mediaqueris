@@ -1,0 +1,2 @@
+# mediaqueris
+sitio web responsive
